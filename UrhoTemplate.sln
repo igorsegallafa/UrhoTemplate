@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UrhoTemplate", "UrhoTemplate\UrhoTemplate.vcxproj", "{BA952E58-D9A1-4427-A881-B1287873586F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug [DX11][Static Runtime]|x64 = Debug [DX11][Static Runtime]|x64
+		Debug [DX11][Static Runtime]|x86 = Debug [DX11][Static Runtime]|x86
+		Debug [DX11]|x64 = Debug [DX11]|x64
+		Debug [DX11]|x86 = Debug [DX11]|x86
+		Debug [DX9][Static Runtime]|x64 = Debug [DX9][Static Runtime]|x64
+		Debug [DX9][Static Runtime]|x86 = Debug [DX9][Static Runtime]|x86
+		Debug [DX9]|x64 = Debug [DX9]|x64
+		Debug [DX9]|x86 = Debug [DX9]|x86
+		Debug [OpenGL][Static Runtime]|x64 = Debug [OpenGL][Static Runtime]|x64
+		Debug [OpenGL][Static Runtime]|x86 = Debug [OpenGL][Static Runtime]|x86
+		Debug [OpenGL]|x64 = Debug [OpenGL]|x64
+		Debug [OpenGL]|x86 = Debug [OpenGL]|x86
+		Release [DX11][Static Runtime]|x64 = Release [DX11][Static Runtime]|x64
+		Release [DX11][Static Runtime]|x86 = Release [DX11][Static Runtime]|x86
+		Release [DX11]|x64 = Release [DX11]|x64
+		Release [DX11]|x86 = Release [DX11]|x86
+		Release [DX9][Static Runtime]|x64 = Release [DX9][Static Runtime]|x64
+		Release [DX9][Static Runtime]|x86 = Release [DX9][Static Runtime]|x86
+		Release [DX9]|x64 = Release [DX9]|x64
+		Release [DX9]|x86 = Release [DX9]|x86
+		Release [OpenGL][Static Runtime]|x64 = Release [OpenGL][Static Runtime]|x64
+		Release [OpenGL][Static Runtime]|x86 = Release [OpenGL][Static Runtime]|x86
+		Release [OpenGL]|x64 = Release [OpenGL]|x64
+		Release [OpenGL]|x86 = Release [OpenGL]|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11][Static Runtime]|x64.ActiveCfg = Debug [DX11][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11][Static Runtime]|x64.Build.0 = Debug [DX11][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11][Static Runtime]|x86.ActiveCfg = Debug [DX11][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11][Static Runtime]|x86.Build.0 = Debug [DX11][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11]|x64.ActiveCfg = Debug [DX11]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11]|x64.Build.0 = Debug [DX11]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11]|x86.ActiveCfg = Debug [DX11]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX11]|x86.Build.0 = Debug [DX11]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9][Static Runtime]|x64.ActiveCfg = Debug [DX9][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9][Static Runtime]|x64.Build.0 = Debug [DX9][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9][Static Runtime]|x86.ActiveCfg = Debug [DX9][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9][Static Runtime]|x86.Build.0 = Debug [DX9][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9]|x64.ActiveCfg = Debug [DX9]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9]|x64.Build.0 = Debug [DX9]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9]|x86.ActiveCfg = Debug [DX9]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [DX9]|x86.Build.0 = Debug [DX9]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL][Static Runtime]|x64.ActiveCfg = Debug [OpenGL][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL][Static Runtime]|x64.Build.0 = Debug [OpenGL][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL][Static Runtime]|x86.ActiveCfg = Debug [OpenGL][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL][Static Runtime]|x86.Build.0 = Debug [OpenGL][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL]|x64.ActiveCfg = Debug [OpenGL]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL]|x64.Build.0 = Debug [OpenGL]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL]|x86.ActiveCfg = Debug [OpenGL]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Debug [OpenGL]|x86.Build.0 = Debug [OpenGL]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11][Static Runtime]|x64.ActiveCfg = Release [DX11][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11][Static Runtime]|x64.Build.0 = Release [DX11][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11][Static Runtime]|x86.ActiveCfg = Release [DX11][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11][Static Runtime]|x86.Build.0 = Release [DX11][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11]|x64.ActiveCfg = Release [DX11]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11]|x64.Build.0 = Release [DX11]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11]|x86.ActiveCfg = Release [DX11]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX11]|x86.Build.0 = Release [DX11]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9][Static Runtime]|x64.ActiveCfg = Release [DX9][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9][Static Runtime]|x64.Build.0 = Release [DX9][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9][Static Runtime]|x86.ActiveCfg = Release [DX9][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9][Static Runtime]|x86.Build.0 = Release [DX9][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9]|x64.ActiveCfg = Release [DX9]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9]|x64.Build.0 = Release [DX9]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9]|x86.ActiveCfg = Release [DX9]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [DX9]|x86.Build.0 = Release [DX9]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL][Static Runtime]|x64.ActiveCfg = Release [OpenGL][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL][Static Runtime]|x64.Build.0 = Release [OpenGL][Static Runtime]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL][Static Runtime]|x86.ActiveCfg = Release [OpenGL][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL][Static Runtime]|x86.Build.0 = Release [OpenGL][Static Runtime]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL]|x64.ActiveCfg = Release [OpenGL]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL]|x64.Build.0 = Release [OpenGL]|x64
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL]|x86.ActiveCfg = Release [OpenGL]|Win32
+		{BA952E58-D9A1-4427-A881-B1287873586F}.Release [OpenGL]|x86.Build.0 = Release [OpenGL]|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F75BDF-251C-4E82-A1B4-DC4BD833A35A}
+	EndGlobalSection
+EndGlobal
