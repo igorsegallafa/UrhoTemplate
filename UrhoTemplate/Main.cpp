@@ -11,12 +11,6 @@ void Main::Setup()
     engineParameters_[EP_FULL_SCREEN] = false;
     engineParameters_[EP_WINDOW_HEIGHT] = 600;
     engineParameters_[EP_WINDOW_WIDTH] = 800;
-    // Resource prefix path is a list of semicolon-separated paths which will be checked for containing resource directories. They are relative to application executable file.
-#if _WIN32
-    engineParameters_[EP_RESOURCE_PREFIX_PATHS] = "..";
-#else
-    engineParameters_[EP_RESOURCE_PREFIX_PATHS] = ".";
-#endif
 }
 
 void Main::Start()
